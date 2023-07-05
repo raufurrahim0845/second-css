@@ -1,0 +1,30 @@
+p{
+    color: rgb(143, 143, 56);
+    
+}
+
+.shuvo{
+    /* display: none; */
+
+    /* visibility: hidden; */
+}
+
+.block{
+    border: 20px solid green  ;
+    margin: 40px;
+    box-shadow: 20px 20px 20px blue;
+
+}
+
+.add{
+    display: block;
+    border: 3px solid firebrick;
+    /* width-max: 60px; */
+    max-width: 90px;
+}
+
+
+.rukaiya{
+    background-image: url('../image/rukaiya.jpg');
+    background-size: 720px;
+}
